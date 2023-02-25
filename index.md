@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 How to cope with an unresponsive SME?
 =====================================
 
