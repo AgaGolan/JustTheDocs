@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 ---
 
 How to cope with an unresponsive SME?
