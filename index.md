@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: home
+title: Reference
+layout: default
+nav_order: 2
 ---
 
 How to cope with an unresponsive SME?
